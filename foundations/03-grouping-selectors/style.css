@@ -1,12 +1,13 @@
-.black {
+.og.black {
     background-color: black;
     color: white;
 }
 
-.yellow {
+.og.yellow {
     background-color: yellow;
 }
 
-.black.yellow {
-
+.og {
+    font-size: 28px;
+    font-family: "helvetica", "times new roman", sans serif;
 }
